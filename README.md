@@ -1,11 +1,11 @@
-# lyrics-finder
+# lyrics
 
 A CLI tool to search and display song lyrics.
 
 ## install
 
 ```bash
-npm install
+npm i @kamiru/lyrics
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ lyrics
 or
 
 ```bash
-lyrics "song title"
+lyrics {song title}
 ```
 
 Type `exit` to quit.
