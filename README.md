@@ -5,7 +5,7 @@ A CLI tool to search and display song lyrics.
 ## install
 
 ```bash
-npm i @kamiru/lyrics
+npm i -g @kamiru/lyrics
 ```
 
 ## Usage
